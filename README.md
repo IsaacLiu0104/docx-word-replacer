@@ -1,4 +1,4 @@
-# README.md
+批量替換 Word 文檔中的錯字工具 Batch Replacement Tool for Typos in Word Documents
 
 > 批量替換 Word（.docx）文件內文字的小工具；以 `dict.csv` 定義「錯字→正字」對照，批次處理目前資料夾內的檔案並輸出 `*_fixed.docx`。
 
